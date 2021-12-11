@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>iloveyou.d1898a5a-5a7b-11ec-aaf2-b888e314b398.jpg</filename>
+	<path>D:\AndroidStudioProjects\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\iloveyou.d1898a5a-5a7b-11ec-aaf2-b888e314b398.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>I Love You</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>282</xmin>
+			<ymin>173</ymin>
+			<xmax>409</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+</annotation>

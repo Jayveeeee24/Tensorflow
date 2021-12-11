@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>no.83fda2cc-5a7b-11ec-bf30-b888e314b398.jpg</filename>
+	<path>D:\AndroidStudioProjects\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\no.83fda2cc-5a7b-11ec-bf30-b888e314b398.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>172</xmin>
+			<ymin>240</ymin>
+			<xmax>249</xmax>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+</annotation>

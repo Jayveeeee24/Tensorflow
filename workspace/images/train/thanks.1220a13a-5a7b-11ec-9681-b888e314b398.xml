@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>thanks.1220a13a-5a7b-11ec-9681-b888e314b398.jpg</filename>
+	<path>D:\AndroidStudioProjects\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\thanks.1220a13a-5a7b-11ec-9681-b888e314b398.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thank You</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>250</ymin>
+			<xmax>313</xmax>
+			<ymax>401</ymax>
+		</bndbox>
+	</object>
+</annotation>
